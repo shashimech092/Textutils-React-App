@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#About the project -This is basic React app created using the React Hooks component -This app enables to convert texts to upperCase, LowerCasre, Copy, remove extra spaces, counts words and characters etc -Shows each functions with alert display
 
 ## Available Scripts
 
